@@ -6,7 +6,8 @@ This notebook presents a solution to the Titanic dataset challenge. It outlines 
 
 - Initialisation  
 - Custom Functions  
-- Analysis & Preparation  
+- Analysis
+- Preparation  
 - Optimisation  
 - Prediction  
 
