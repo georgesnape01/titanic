@@ -27,4 +27,4 @@ Data preprocessing tasks are conducted in this section. Missing values are imput
 This section focuses on optimising hyperparameters for multiple ML models, including Decision Trees, XGBoost, LightGBM, Random Forest, SVM and Logistic Regression. Optuna is used for hyperparameter tuning to maximise model performance.
 
 # Prediction  
-In this final section, the trained models are used to make predictions on the test set.
+In this final section, the best models are used to make predictions on the test set.
