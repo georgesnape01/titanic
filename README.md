@@ -4,7 +4,7 @@ This notebook presents a solution to the Titanic dataset challenge. It outlines 
 
 # Project Description
 
-The dataset consists of 891 passengers, with each entry providing details about their demographics, ticket information, and survival outcome. The columns include:
+The dataset consists of 891 passengers, with each entry providing details about their demographics, ticket information and survival outcome. The variables include:
 
 | PassengerId | Survived | Pclass | Name                                           | Sex   | Age  | SibSp | Parch | Ticket              | Fare    | Cabin | Embarked |
 |-------------|----------|--------|------------------------------------------------|-------|-------|-------|-------|---------------------|---------|-------|----------|
