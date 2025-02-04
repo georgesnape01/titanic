@@ -4,6 +4,8 @@ This notebook presents a solution to the Titanic dataset challenge. It outlines 
 
 # Project Description
 
+The dataset consists of 891 passengers, with each entry providing details about their demographics, ticket information, and survival outcome. The columns include:
+
 | PassengerId | Survived | Pclass | Name                                           | Sex   | Age  | SibSp | Parch | Ticket              | Fare    | Cabin | Embarked |
 |-------------|----------|--------|------------------------------------------------|-------|-------|-------|-------|---------------------|---------|-------|----------|
 | 0           | 1        | 0      | Braund, Mr. Owen Harris    | male  | 22.0  | 1     | 0     | A/5 21171           | 7.2500  | NaN   | S        |
@@ -16,4 +18,4 @@ The project first looked at basic feaeture engeering, optimsation using Optuna a
 
 # Results
 
-An accuracy score of 0.779 was obtained.
+Using accuracy as the performance metric, 0.779 of people were correctly predicted on whether they survived or not.
