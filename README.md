@@ -14,8 +14,8 @@ The dataset consists of 891 passengers, with each entry providing details about 
 
 # Methodology
 
-The project first looked at basic feaeture engeering, optimsation using Optuna and classical machine learning techniques. Then, different feature engeering techniques were explored, for example, title extraction from the Name, creating bins for the Age, Fare, Pclass and SibSp columns, extracting letters and numbers from the Ticket and Cabin columns. 
+The project first explored basic feature engineering and optimisation using Optuna along with classical machine learning techniques. Feature engineering techniques included extracting titles from the Name column, creating bins for Age, Fare, Pclass, and SibSp columns, and extracting letters and numbers from the Ticket and Cabin columns. Additional efforts included handling missing data and evaluating model performance through cross-validation.
 
 # Results
 
-Using accuracy as the performance metric, 0.779 of people were correctly predicted on whether they survived or not.
+Using accuracy as the performance metric, the model correctly predicted the survival outcome for 77.9% of passengers.
