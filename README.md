@@ -18,7 +18,7 @@ This notebook presents a solution to the Titanic dataset challenge. It outlines 
 - Prediction  
 
 # Initialisation  
-In this section, the necessary libraries are imported and the Titanic dataset is loaded. The environment is set up for further analysis, and initial data checks are conducted.
+In this section, the necessary libraries were imported and the Titanic dataset is loaded. The environment is set up for further analysis, and initial data checks are conducted.
 
 # Custom Functions  
 This section defines custom functions that are used throughout the notebook. These functions include data imputation, model evaluation and hyperparameter optimisation.
