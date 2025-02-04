@@ -8,9 +8,9 @@ The dataset consists of 891 passengers, with each entry providing details about 
 
 | PassengerId | Survived | Pclass | Name                                           | Sex   | Age  | SibSp | Parch | Ticket              | Fare    | Cabin | Embarked |
 |-------------|----------|--------|------------------------------------------------|-------|-------|-------|-------|---------------------|---------|-------|----------|
-| 0           | 1        | 0      | Braund, Mr. Owen Harris    | male  | 22.0  | 1     | 0     | A/5 21171           | 7.2500  | NaN   | S        |
-| 1           | 2        | 1      | Cumings, Mrs. John Bradley ... | female | 38.0  | 1     | 0     | PC 17599            | 71.2833 | C85   | C        |
-| 2           | 3        | 1      | Heikkinen, Miss. Laina    | female | 26.0  | 0     | 0     | STON/O2. 3101282    | 7.9250  | NaN   | S        |
+| 0           | 0        | 0      | Braund, Mr. Owen Harris    | male  | 22.0  | 1     | 0     | A/5 21171           | 7.2500  | NaN   | S        |
+| 1           | 1        | 1      | Cumings, Mrs. John Bradley ... | female | 38.0  | 1     | 0     | PC 17599            | 71.2833 | C85   | C        |
+| 2           | 0        | 1      | Heikkinen, Miss. Laina    | female | 26.0  | 0     | 0     | STON/O2. 3101282    | 7.9250  | NaN   | S        |
 
 # Methodology
 
